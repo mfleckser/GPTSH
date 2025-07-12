@@ -1,0 +1,1 @@
+void send_prompt(const char *prompt, const char *sysprompt);
